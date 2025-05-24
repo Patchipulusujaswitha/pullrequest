@@ -1,7 +1,8 @@
 <html>
 <head>
 <title>
-welcome to web page 
+welcome to web page
+<h1> this is the 1st heading </h1>
 </title>
 </head>
 </html>
